@@ -1,4 +1,4 @@
-#GraphicsLabs
+# GraphicsLabs
 Here I will upload my labs
 ## First lab
 * Image invertion
