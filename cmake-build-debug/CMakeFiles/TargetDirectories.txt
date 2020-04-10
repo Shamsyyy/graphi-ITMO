@@ -1,0 +1,3 @@
+C:/Users/Public/grafika1lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Public/grafika1lab/cmake-build-debug/CMakeFiles/grafika1lab.dir
+C:/Users/Public/grafika1lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
